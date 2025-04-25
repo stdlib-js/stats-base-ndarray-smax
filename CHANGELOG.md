@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-23)
+## Unreleased (2025-04-25)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b455b55`](https://github.com/stdlib-js/stdlib/commit/b455b550546bb22da11b94d0213bc54a74a08bed) - **bench:** use single-precision assertion utility _(by Athan Reines)_
 -   [`9911f30`](https://github.com/stdlib-js/stdlib/commit/9911f30a5b84c02396de8bab5df59c322f48c63b) - **test:** fix test case _(by Athan Reines)_
 -   [`876adb0`](https://github.com/stdlib-js/stdlib/commit/876adb06cf3397bc3da540cbbcc794f51bca5fef) - **feat:** add `stats/base/ndarray/smax` _(by Athan Reines)_
 
