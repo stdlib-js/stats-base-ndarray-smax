@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-04)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b2b06e2`](https://github.com/stdlib-js/stdlib/commit/b2b06e25153452e89a95ed63ae1ae4f7646d7c1d) - **bench:** fix dtypes _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2026-01-31)
