@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`06188d1`](https://github.com/stdlib-js/stdlib/commit/06188d19cb37068a0aa27c391a443a48fd6b6b56) - **bench:** fix types _(by Athan Reines)_
 -   [`b2b06e2`](https://github.com/stdlib-js/stdlib/commit/b2b06e25153452e89a95ed63ae1ae4f7646d7c1d) - **bench:** fix dtypes _(by Athan Reines)_
 
 </details>
