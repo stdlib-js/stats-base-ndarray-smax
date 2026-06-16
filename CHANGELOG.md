@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`aabc489`](https://github.com/stdlib-js/stdlib/commit/aabc489951c838ab64c758a705070506d8f00426) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`0a3bfa2`](https://github.com/stdlib-js/stdlib/commit/0a3bfa2d83ccf5139c1557f07b936fac61cf5838) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a7bba71`](https://github.com/stdlib-js/stdlib/commit/a7bba712251731591ce02227e24f4d61042e1710) - **style:** fix indentation _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
